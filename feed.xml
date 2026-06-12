@@ -1,44 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Japan in English</title>
+    <title>pazuglish</title>
     <link>https://ibuki393883-commits.github.io/pazuglish</link>
     <language>ja</language>
     <description>日本のニュースを毎朝、英語で。英語学習者と日本在住の方のためのデイリーニュース番組です。</description>
-    <itunes:author>Japan in English</itunes:author>
+    <itunes:author>pazuglish</itunes:author>
     <itunes:summary>日本のニュースを毎朝、英語で。英語学習者と日本在住の方のためのデイリーニュース番組です。</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://ibuki393883-commits.github.io/pazuglish/cover.jpg"/>
     <itunes:category text="Education"/>
     <itunes:owner>
-      <itunes:name>Japan in English</itunes:name>
+      <itunes:name>pazuglish</itunes:name>
       <itunes:email>ibuki.393883@gmail.com</itunes:email>
     </itunes:owner>
     <item>
-      <title>6月12日のニュース：US Military Launches Additional Strikes on Iran, Iran Announces Blockade of Strait of Hormuz</title>
+      <title>6月12日のニュース：Trump Announces Iran Deal Signing This Weekend, but Tehran Denies Agreement</title>
       <description>Japan in English — 日本のニュースを英語で。今日のトップニュースを英語学習者向けにお届けします。
 
-1. US Military Launches Additional Strikes on Iran, Iran Announces Blockade of Strait of Hormuz
-2. Sagrada Família&apos;s Main Tower Completed, Pope Attends Ceremony
-3. Driver Admits to Watching TikTok During Fatal Highway Crash That Killed Six
-4. Japanese Diet Agrees on Imperial Succession Measures Including Female Royal Retention
-5. PM Kōichi&apos;s Secretary Unable to Confirm Voice in Alleged Defamatory Video Scandal
+1. Trump Announces Iran Deal Signing This Weekend, but Tehran Denies Agreement
+2. 19-Year-Old Ex-Boyfriend Arrested for Murder of 17-Year-Old Girl Found in Sagamihara Riverbed
+3. Japan to Achieve 100% Non-Hormuz Oil Procurement Next Month, Supply Secured Until 2028
+4. Second-in-Command of Illegal Scout Group &apos;Natural&apos; Arrested in Osaka Pachinko Parlor
+5. Emperor Holds Press Conference Before Netherlands-Belgium Visit, Expresses Hope for Public Understanding on Succession Debate
+6. Japan National Team Support Video Displayed at Times Square Ahead of World Cup
 
 英語スクリプト全文・重要単語の解説はプレミアム（noteメンバーシップ）で公開中。</description>
       <itunes:summary>Japan in English — 日本のニュースを英語で。今日のトップニュースを英語学習者向けにお届けします。
 
-1. US Military Launches Additional Strikes on Iran, Iran Announces Blockade of Strait of Hormuz
-2. Sagrada Família&apos;s Main Tower Completed, Pope Attends Ceremony
-3. Driver Admits to Watching TikTok During Fatal Highway Crash That Killed Six
-4. Japanese Diet Agrees on Imperial Succession Measures Including Female Royal Retention
-5. PM Kōichi&apos;s Secretary Unable to Confirm Voice in Alleged Defamatory Video Scandal
+1. Trump Announces Iran Deal Signing This Weekend, but Tehran Denies Agreement
+2. 19-Year-Old Ex-Boyfriend Arrested for Murder of 17-Year-Old Girl Found in Sagamihara Riverbed
+3. Japan to Achieve 100% Non-Hormuz Oil Procurement Next Month, Supply Secured Until 2028
+4. Second-in-Command of Illegal Scout Group &apos;Natural&apos; Arrested in Osaka Pachinko Parlor
+5. Emperor Holds Press Conference Before Netherlands-Belgium Visit, Expresses Hope for Public Understanding on Succession Debate
+6. Japan National Team Support Video Displayed at Times Square Ahead of World Cup
 
 英語スクリプト全文・重要単語の解説はプレミアム（noteメンバーシップ）で公開中。</itunes:summary>
-      <guid isPermaLink="false">2026-06-11-japan-in-english</guid>
-      <pubDate>Thu, 11 Jun 2026 16:02:05 GMT</pubDate>
-      <enclosure url="https://ibuki393883-commits.github.io/pazuglish/podcast-2026-06-11.m4a" length="1183372" type="audio/x-m4a"/>
-      <itunes:duration>04:48</itunes:duration>
+      <guid isPermaLink="false">2026-06-12-japan-in-english</guid>
+      <pubDate>Fri, 12 Jun 2026 05:25:41 GMT</pubDate>
+      <enclosure url="https://ibuki393883-commits.github.io/pazuglish/podcast-2026-06-12.m4a" length="1440724" type="audio/x-m4a"/>
+      <itunes:duration>05:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
